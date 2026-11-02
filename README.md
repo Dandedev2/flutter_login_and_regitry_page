@@ -1,17 +1,4 @@
 # flutter_login_interface
 
-A new Flutter project, on login page and register
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="960" height="1078" alt="Screenshot 2026-11-02 200820" src="https://github.com/user-attachments/assets/73bcd72b-a93d-4c41-a193-66272298f1ff" />
+<img width="957" height="1075" alt="Screenshot 2026-11-02 200753" src="https://github.com/user-attachments/assets/7e2e9c8e-22f2-41d4-9664-298fdb4fe587" />
